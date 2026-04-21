@@ -1,0 +1,34 @@
+[
+  {
+    "name": "D.K. Shivakumar",
+    "portfolio": "Bengaluru Development + BWSSB",
+    "handle": "@DKShivakumar",
+    "keywords": ["BBMP", "Water", "BWSSB", "Roads", "Drainage", "Potholes"]
+  },
+  {
+    "name": "K.J. George",
+    "portfolio": "Energy (BESCOM)",
+    "keywords": ["BESCOM", "Power cut", "Electricity", "Outage"]
+  },
+  {
+    "name": "Ramalinga Reddy",
+    "portfolio": "Transport (BMTC / KSRTC)",
+    "keywords": ["BMTC", "Bus", "Traffic", "KSRTC", "Transport"]
+  },
+  {
+    "name": "Suresha B.S.",
+    "portfolio": "Urban Development (non-BBMP)",
+    "keywords": ["Town planning", "Garbage", "Urban", "Layout"]
+  },
+  {
+    "name": "M.B. Patil",
+    "portfolio": "Infrastructure / Industries",
+    "keywords": ["Metro", "Infrastructure", "BMRCL", "Industry"]
+  },
+  {
+    "name": "Siddaramaiah",
+    "portfolio": "Chief Minister",
+    "handle": "@CMofKarnataka",
+    "keywords": ["CM", "Finance", "Overall", "Karnataka"]
+  }
+]
